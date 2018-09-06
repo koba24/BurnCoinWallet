@@ -1,5 +1,5 @@
 1. PORTs
-RPC Port: 15497
+RPC Port: 9999 (Chagne to whatever you want. eg, 15497)
 Network Port: 15493
 
 2. Build - Unix/Linux
